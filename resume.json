@@ -1,0 +1,63 @@
+{
+	"basics": {
+		"name": "Anuj Yadav",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82994087?v=4",
+		"email": "2020kucp1029@iiitkota.ac.in",
+		"phone": "7897882374",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), pursuing my B.tech in Computer Science & Engineering. I have enthusiasm in Web Development & UI/UX Designing.",
+		"location": {
+			"address": " house no-1Mahrajpur ,rasra ballia Up ",
+			"postalCode": "221712",
+			"city": "Ballia",
+			"countryCode": "India",
+			"region": "Uttar  Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Anujyadavv",
+				"url": "https://github.com/Anujyadavv"
+			},
+			{
+				"network": "linkedin",
+				"username": "anuj-yadav",
+				"url": "https://www.linkedin.com/in/anuj-yadav-194aa81bb"
+			},
+			{
+				"network": "Instagram",
+				"username": "bot.anuj",
+				"url": "https://instagram.com/bot.anuj?utm_medium=copy_link"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02",
+		"endDate": "----",
+		"gpa": "7.05",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [
+		{
+		"level": "intermediate",
+		"keywords": ["HTML", "CSS", "C"]
+	    },
+		{
+			"level": "beginner",
+			"keywords": ["Javascript", "PHP"]
+		}
+
+     ],
+	
+     "interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": []
+}
